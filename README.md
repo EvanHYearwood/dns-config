@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7c526d0a-1014-467d-b658-4b485f6a94fd" alt="DNS"/>
+</p>
+
 <h1 align="left">DNS Demonstration and Testing Lab</h1>
 
 <p>This lab demonstrates DNS functionality by testing A-record creation, local DNS cache behavior, and CNAME records within a domain environment. We will perform specific tests on DNS resolution, cache management, and aliasing using CNAME records.</p>
